@@ -3,7 +3,7 @@
   "displayName": "Serika Dark Flat",
   "description": "Faithful to Monkey Type",
   "publisher": "HenryChea",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
