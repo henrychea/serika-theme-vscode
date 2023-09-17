@@ -1,8 +1,8 @@
 {
-  "name": "serika-dark",
-  "displayName": "Serika Dark",
+  "name": "serika-dark-vscode",
+  "displayName": "Serika Dark Flat",
   "description": "Faithful to Monkey Type",
-  "publisher": "Henry Chea",
+  "publisher": "HenryChea",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -27,6 +27,7 @@
     "monkey",
     "grey"
   ],
+  "icon": "assets/Logo.png",
   "repository": {
     "url": "https://github.com/henrychea/serika-theme-vscode",
     "type": "git"
