@@ -27,7 +27,7 @@
     "monkey",
     "grey"
   ],
-  "icon": "assets/Logo.png",
+  "icon": "./assets/logo.png",
   "repository": {
     "url": "https://github.com/henrychea/serika-theme-vscode",
     "type": "git"
