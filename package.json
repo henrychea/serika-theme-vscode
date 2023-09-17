@@ -1,0 +1,53 @@
+{
+  "name": "serika-dark",
+  "displayName": "Serika Dark",
+  "description": "Faithful to Monkey Type",
+  "publisher": "Henry Chea",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "author": {
+    "name": "Henry Chea",
+    "email": "work@henrychea.com"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "orange",
+    "yellow",
+    "black",
+    "accent",
+    "midnight",
+    "serika",
+    "monkey type",
+    "banana",
+    "monkey",
+    "grey"
+  ],
+  "repository": {
+    "url": "https://github.com/henrychea/serika-theme-vscode",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/henrychea/serika-theme-vscode/issues",
+    "email": "work@henrychea.com"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Serika Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serika Dark-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/henrychea/serika-theme-vscode",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "galleryBanner": {
+    "color": "#e2b714",
+    "theme": "dark"
+  }
+}
